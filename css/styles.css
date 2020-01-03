@@ -26,41 +26,9 @@ div {
   padding-bottom: 0;
 }
 
-.profile {
-  background-color: white;
-}
-
-.intro {
-  width: 30%;
-  margin: auto;
-}
-
-.skills-list {
-  width: 30%;
-  margin: auto;
-}
-
-.projects-list {
-  width: 30%;
-  margin: auto;
-}
-
-.skills {
-  background-color: white;
-}
-
-.projects {
-  background-color: white;
-}
-
-.contact-me {
-  background-color: white;
-}
-
 .skill-row {
   align-items: center;
   justify-content: center;
-  background-color: white;
 }
 
 .table-container {
@@ -84,7 +52,6 @@ hr {
 
 .middle-container {
   text-align: center;
-  background-color: white;
 
 }
 
@@ -144,12 +111,11 @@ h3 {
 }
 
 p {
-  color: #93b5b3;
-  line-height: 2;
+  color: #93b5b3
 }
 
 .btn {
-  background-color: white;
+  background-color: #f2f6f5;
   color: #63707e; /* SET COLOR IN WHITE */
 }
 
