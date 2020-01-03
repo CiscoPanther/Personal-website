@@ -26,6 +26,10 @@ div {
   padding-bottom: 0;
 }
 
+.profile {
+  background-color: white;
+}
+
 .intro {
   width: 30%;
   margin: auto;
@@ -39,15 +43,6 @@ div {
 .projects-list {
   width: 30%;
   margin: auto;
-}
-
-.projects {
-  background-color: white;
-
-.skill-row {
-  align-items: center;
-  justify-content: center;
-  background-color: white;
 }
 
 .skills {
@@ -68,6 +63,16 @@ div {
   background-color: white;
 }
 
+.table-container {
+  align-items: center;
+  justify-content: center;
+  width: auto;
+}
+
+.skills-table {
+  text-align: center;
+}
+
 hr {
   border-style: none;
   border-top-style: dotted;
@@ -80,6 +85,7 @@ hr {
 .middle-container {
   text-align: center;
   background-color: white;
+
 }
 
 .bottom-container {
@@ -138,7 +144,8 @@ h3 {
 }
 
 p {
-  color: #93b5b3
+  color: #93b5b3;
+  line-height: 2;
 }
 
 .btn {
@@ -150,7 +157,7 @@ p {
   background-color: #63707e;
   color: white;
 }
-  
+
 .footer-name {
   color: white;
 }
