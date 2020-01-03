@@ -170,6 +170,7 @@ p {
 
 .footer-link {
   color: white;
+  text-decoration: none;
 }
 
 .contact-me {
@@ -186,6 +187,7 @@ table.links {
 .top-links {
   background-color: #f2f6f5;
   color: #63707e;
+  text-decoration: none;
 }
 
 .top-links:hover {
