@@ -41,6 +41,9 @@ div {
   margin: auto;
 }
 
+.projects {
+  background-color: white;
+
 .skill-row {
   align-items: center;
   justify-content: center;
@@ -139,15 +142,15 @@ p {
 }
 
 .btn {
-  background-color: #f2f6f5;
-  color: #63707e; /* SET COLOR IN WHITE */
+  background-color: white;
+  color: #63707e;
 }
 
 .btn:hover {
   background-color: #63707e;
-  color: white; /* SET COLOR IN GREEN */
+  color: white;
 }
-
+  
 .footer-name {
   color: white;
 }
