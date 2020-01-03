@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+div {
+  background-color: #f2f6f5;
+}
+
+.top-container {
+  background-color: #f2f6f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.my_image {
+  border-radius: 50%;
+  width: 300px;
+  margin: 50px auto 0 auto;
+}
+
+.my_image_2 {
+  border-radius: 50%;
+  width: 300px;
+  padding-bottom: 0;
+}
+
+.skill-row {
+  align-items: center;
+  justify-content: center;
+}
+
+.table-container {
+  align-items: center;
+  justify-content: center;
+  width: auto;
+}
+
+.skills-table {
+  text-align: center;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #698474;
+  border-width: 5px;
+  width: 5%
+
+}
+
+.middle-container {
+  text-align: center;
+
+}
+
+.bottom-container {
+  text-align: center;
+  background-color: #63707e;
+  overflow: hidden;
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: 'Sacramento', cursive;
+  font-size: 7rem;
+  font-weight: 300;
+  color: #63707e;
+  margin-bottom: 0;
+}
+
+.full-stack {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 2.5rem;
+  font-weight: 900;
+  color: #63707e;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: 300;
+  color: #63707e;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1em;
+  color: #93b5b3;
+}
+
+.bottom-cloud {
+  position: absolute;
+  /* padding-bottom: 100px; */
+  left: 220px;
+  bottom: 300px;
+  opacity: 0.2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  opacity: 0.2;
+}
+
+.mountain {
+  opacity: 0.6
+}
+
+p {
+  color: #93b5b3
+}
+
+.btn {
+  background-color: #f2f6f5;
+  color: #63707e; /* SET COLOR IN WHITE */
+}
+
+.btn:hover {
+  background-color: #63707e;
+  color: white; /* SET COLOR IN GREEN */
+}
+
+.footer-name {
+  color: white;
+}
+
+.footer-link:hover {
+  background-color: white;
+  color: #63707e;
+}
+
+.footer-link {
+  color: white;
+}
+
+.contact-me {
+  margin: 100px, auto,50px, auto;
+  padding-bottom: 50px
+}
+
+table.links {
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 50px;
+  }
+
+.top-links {
+  background-color: #f2f6f5;
+  color: #63707e;
+}
+
+.top-links:hover {
+  background-color: #63707e;
+  color: white;
+}
