@@ -26,6 +26,21 @@ div {
   padding-bottom: 0;
 }
 
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.skills-list {
+  width: 30%;
+  margin: auto;
+}
+
+.projects-list {
+  width: 30%;
+  margin: auto;
+}
+
 .skill-row {
   align-items: center;
   justify-content: center;
