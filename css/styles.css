@@ -44,16 +44,25 @@ div {
 .skill-row {
   align-items: center;
   justify-content: center;
+  background-color: white;
 }
 
-.table-container {
+.skills {
+  background-color: white;
+}
+
+.projects {
+  background-color: white;
+}
+
+.contact-me {
+  background-color: white;
+}
+
+.skill-row {
   align-items: center;
   justify-content: center;
-  width: auto;
-}
-
-.skills-table {
-  text-align: center;
+  background-color: white;
 }
 
 hr {
@@ -67,7 +76,7 @@ hr {
 
 .middle-container {
   text-align: center;
-
+  background-color: white;
 }
 
 .bottom-container {
